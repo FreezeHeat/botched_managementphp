@@ -1,0 +1,4 @@
+ci folder should be placed outside wwwroot (security purposes and so the
+project will run)
+
+kobi should be placed in tn the wwwroot.
