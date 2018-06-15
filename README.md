@@ -18,3 +18,7 @@ When you finish editing, select all table rows that were changed and apply.
 Management access
 user kobi
 pass kobikobi
+
+Online example:
+asafy.co.nf/kobi
+asafy.con.nf/kobi/index.php/manage
