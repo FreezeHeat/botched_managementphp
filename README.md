@@ -15,10 +15,12 @@ the manage page allows the management to edit and delete request, as well as add
 editing information can be done by double clicking a table cell.
 When you finish editing, select all table rows that were changed and apply.
 
-Management access
-user kobi
-pass kobikobi
+Management access:
+
+* user kobi
+* pass kobikobi
 
 Online example:
-asafy.co.nf/kobi
-asafy.con.nf/kobi/index.php/manage
+
+* www.asafy.co.nf/kobi
+* www.asafy.co.nf/kobi/index.php/manage
