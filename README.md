@@ -14,3 +14,13 @@ The form page job options are brought straight from the database, and more can b
 the manage page allows the management to edit and delete request, as well as add new job options to the form.php page,
 editing information can be done by double clicking a table cell.
 When you finish editing, select all table rows that were changed and apply.
+
+Management access:
+
+* user kobi
+* pass kobikobi
+
+Online example:
+
+* www.asafy.co.nf/kobi
+* www.asafy.co.nf/kobi/index.php/manage
