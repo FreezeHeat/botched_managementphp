@@ -1,0 +1,65 @@
+/* Element spacing classes for Bootstrap */
+.space10{
+	height: 10px;
+}
+
+.space50{
+	height: 50px;
+}
+
+/* Center elements for Bootstrap */
+.col-centered{
+	margin: auto;
+	float: none;
+}
+
+.blackBorder{
+	border-color: black;
+}
+
+.errorLabel{
+	color: red;
+}
+
+/* RTL support */
+ul .float_right{
+	float: right;
+}
+
+.float_right{
+	float: right;
+}
+
+.btn_responsive{
+	white-space: normal;
+    word-wrap: break-word;	
+}
+
+table tr input[type='checkbox']{
+	cursor: pointer;
+}
+
+#request_table table tr select{
+	width: inherit;
+}
+
+#service_list table tr:not(:first-child) td[contenteditable=true]{
+	cursor: cell;
+}
+
+.carousel-indicators li {
+  background-color: rgb(153, 153, 153);
+}
+
+.carousel-indicators .active {
+  background-color: rgb(0, 93, 255);
+}
+
+.carousel-control{
+	color: black;
+}
+
+/* Firefox Bootstrap fix */
+@-moz-document url-prefix() {
+  fieldset { display: table-cell; }
+}
