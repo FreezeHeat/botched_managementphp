@@ -22,4 +22,4 @@ Management access:
 
 Online example:
 
-* assafy.rf.gd/kobi
+* http://assafy.rf.gd/kobi
