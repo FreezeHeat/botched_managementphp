@@ -22,5 +22,4 @@ Management access:
 
 Online example:
 
-* www.asafy.co.nf/kobi
-* www.asafy.co.nf/kobi/index.php/manage
+* assafy.rf.gd/kobi
