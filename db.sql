@@ -56,4 +56,4 @@ CREATE TABLE IF NOT EXISTS Jobs(
 INSERT INTO Manage
 (username, password)
 VALUES
-('kobi', '$2y$10$ShtbKRSITNOvJerNzIH1dOge22GcM1OELqBhZqkyIqy86f726Lzyu');
+('kobi', '$2y$10$PCqcRVNxOJIgY5OcRqutgOWIl6kOB0GQ6XNRI9PMdGdyeHXPyE2fi');
